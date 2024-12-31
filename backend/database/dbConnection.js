@@ -6,7 +6,7 @@ export const dbConnection = () => {
       dbName: "RESTAURANT",
     })
     .then(() => {
-      console.log("Connected to database!");
+      console.log("Connected to mongo  database!");
     })
     .catch((err) => {
       console.log(`Some error occured while connecing to database: ${err}`);
