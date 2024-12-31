@@ -6,12 +6,12 @@ import { errorMiddleware } from "./middlewares/error.js";
 import reservationRouter from "./routes/reservationRoute.js"; // Adjusted import
 import { dbConnection } from "./database/dbConnection.js";
 
-const app = express();
 dotenv.config({ path: ".config/config.env" });
 
+const app = express();
 app.use(
   cors({
-    origin: [process.env.FRONTEND_URL],
+    origin: 'http://localhost:5173',
     methods: ["POST"],
     credentials: true,
   })
@@ -26,7 +26,7 @@ app.use("/api/v1/reservation", reservationRouter);
 app.get("/", (req, res) => {
   res.status(200).json({
     success: true,
-    message: "Hello World Again!",
+    message: "Hello World !",
   });
 });
 
