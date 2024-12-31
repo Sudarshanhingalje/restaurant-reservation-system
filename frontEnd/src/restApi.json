@@ -1,0 +1,284 @@
+{
+    "data": [
+    {
+      "ourQualities": [
+        {
+          "id": 1,
+          "image": "./quality_food.svg",
+          "title": "PREMIUM QUALITY FOOD",
+          "description": "At Arihant Food, we use only the freshest ingredients to deliver unmatched quality that satisfies your taste buds every time."
+        },
+        {
+          "id": 2,
+          "image": "./super_taste.svg",
+          "title": "EXCEPTIONAL TASTE",
+          "description": "Experience the authentic flavors and rich taste that make Arihant Food a favorite for all food enthusiasts."
+        },
+        {
+          "id": 3,
+          "image": "./fast_delivery.svg",
+          "title": "SWIFT & RELIABLE DELIVERY",
+          "description": "Enjoy your favorite dishes from Arihant Food delivered hot and fresh, right to your doorstep, in no time."
+        }
+      ],
+        "dishes": [
+    {
+        "id": 1,
+        "image": "./breakfast1.png",
+        "title": "PAN SEARED SEA BASS",
+        "category": "Breakfast"
+    },
+    {
+        "id": 2,
+        "image": "./dinner1.jpeg",
+        "title": "ROASTED LAMB RUMP",
+        "category": "Dinner"
+    },
+    {
+        "id": 3,
+        "image": "./breakfast2.jpeg",
+        "title": "FRESH FRUIT SALAD",
+        "category": "Breakfast"
+    },
+    {
+        "id": 4,
+        "image": "./dinner3.png",
+        "title": "STUFFED STRAWBERRY",
+        "category": "Dinner"
+    },
+    {
+        "id": 5,
+        "image": "./lunch1.png",
+        "title": "BEEF BURGER MEAL",
+        "category": "Lunch"
+    },
+    {
+        "id": 6,
+        "image": "./dinner4.png",
+        "title": "MUSSELS SOUP",
+        "category": "Dinner"
+    },
+    {
+        "id": 7,
+        "image": "./dinner5.png",
+        "title": "ITALIAN SPAGHETTI",
+        "category": "Dinner"
+    },
+    {
+        "id": 8,
+        "image": "./dinner6.png",
+        "title": "GRILLED FISH",
+        "category": "Dinner"
+    },
+    {
+        "id": 9,
+        "image": "./breakfast3.jpeg",
+        "title": "CHEESE OMELETTE",
+        "category": "Breakfast"
+    },
+    {
+        "id": 10,
+        "image": "./lunch2.jpeg",
+        "title": "CHICKEN CAESAR SALAD",
+        "category": "Lunch"
+    },
+    {
+        "id": 11,
+        "image": "./dessert1.jpeg",
+        "title": "CHOCOLATE FONDANT",
+        "category": "Dessert"
+    },
+    {
+        "id": 12,
+        "image": "./dessert2.jpeg",
+        "title": "TIRAMISU CAKE",
+        "category": "Dessert"
+    },
+    {
+        "id": 13,
+        "image": "./drinks1.jpeg",
+        "title": "CLASSIC MOJITO",
+        "category": "Drinks"
+    },
+    {
+        "id": 14,
+        "image": "./breakfast4.jpeg",
+        "title": "AVOCADO TOAST",
+        "category": "Breakfast"
+    },
+    {
+        "id": 15,
+        "image": "./lunch3.jpeg",
+        "title": "BUTTER CHICKEN",
+        "category": "Lunch"
+    },
+    {
+        "id": 16,
+        "image": "./lunch4.jpeg",
+        "title": "VEGETABLE BIRYANI",
+        "category": "Lunch"
+    },
+    {
+        "id": 17,
+        "image": "./snacks1.jpeg",
+        "title": "CRISPY FRENCH FRIES",
+        "category": "Snacks"
+    },
+    {
+        "id": 18,
+        "image": "./snacks2.jpeg",
+        "title": "PANEER TIKKA",
+        "category": "Snacks"
+    },
+    {
+        "id": 19,
+        "image": "./dessert3.jpeg",
+        "title": "MANGO PUDDING",
+        "category": "Dessert"
+    },
+    {
+        "id": 20,
+        "image": "./drinks2.jpeg",
+        "title": "STRAWBERRY SMOOTHIE",
+        "category": "Drinks"
+    },
+    {
+        "id": 21,
+        "image": "./snacks3.jpeg",
+        "title": "SPICY CHICKEN WINGS",
+        "category": "Snacks"
+    },
+    {
+        "id": 22,
+        "image": "./dinner7.jpeg",
+        "title": "GARLIC BUTTER PRAWNS",
+        "category": "Dinner"
+    },
+    {
+        "id": 23,
+        "image": "./breakfast4.jpeg",
+        "title": "AVOCADO TOAST",
+        "category": "Breakfast"
+    },
+    {
+        "id": 24,
+        "image": "./lunch5.jpeg",
+        "title": "PANEER BUTTER MASALA",
+        "category": "Lunch"
+    },
+    {
+        "id": 25,
+        "image": "./dessert4.jpeg",
+        "title": "BANANA SPLIT",
+        "category": "Dessert"
+    }
+],
+
+
+        "team": [
+            {
+                "id": 1,
+                "image": "./team_member_1.png",
+                "name": "JOHNATHAN TYLER",
+                "designation": "Founder & Head Chef"
+            },
+            {
+                "id": 2,
+                "image": "./team_member_2.png",
+                "name": "WADE WARREN",
+                "designation": "Sous Chef"
+            },
+            {
+                "id": 3,
+                "image": "./team_member_3.png",
+                "name": "JHON DOE",
+                "designation": "Fast Food Chef"
+            },
+            {
+                "id": 4,
+                "image": "./team_member_4.png",
+                "name": "ALEX COAL",
+                "designation": "Senior Chef"
+            }
+        ],
+        "testimonials": [
+            {
+                "id": 1,
+                "image": "./review1.png",
+                "description": "Morbi nulla nec dui lacus, in. Libero in pretium metus massa. Sodales dignissim vitae mauris varius faucibus. Eleifend dui, non laoreet ac luctus facilisis diam. Enim scelerisque vel at id viverra tellus.",
+                "rating": 4,
+                "userName": "Jane Cooper"
+            },
+            {
+                "id": 2,
+                "image": "./review2.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 4.5,
+                "userName": "Esther Howard"
+            },
+            {
+                "id": 3,
+                "image": "./review3.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 5,
+                "userName": "Guy Hawkins"
+            }
+        ],
+        "who_we_are": [
+            {
+                "id": 1,
+                "number": "14",
+                "title": "Restaurants"
+            },
+            {
+                "id": 2,
+                "number": "20",
+                "title": "Chef In Kitchen"
+            },
+            {
+                "id": 3,
+                "number": "08",
+                "title": "Years Of Experience"
+            },
+            {
+                "id": 4,
+                "number": "200",
+                "title": "Food Dishes"
+            }
+        ],
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "HOME",
+                "link": "heroSection"
+            },
+            {
+                "id": 2,
+                "title": "ABOUT US",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "SERVICES",
+                "link": "qualities"
+            },
+            {
+                "id": 4,
+                "title": "TEAM",
+                "link": "team"
+            },
+            {
+                "id": 5,
+                "title": "RESERVATION",
+                "link": "reservation"
+            },
+            {
+                "id": 6,
+                "title": "CONTACT US",
+                "link": "contact"
+            }
+        ]
+    
+    } 
+    ]
+}
