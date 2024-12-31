@@ -1,5 +1,8 @@
-# Arihant Food - Restaurant Website 🍴
+# Arihant Food - restaurant-reservation-system 🍴
 
+
+to check it our - https://restaurant-reservation-system-seven.vercel.app/ 
+backend - https://restaurant-reservation-system-qzxm.onrender.com
 Welcome to the **Arihant Food** Restaurant Website project! This is a modern, responsive website designed to showcase the menu, services, and online ordering capabilities of a restaurant. The project is built using the MERN stack (MongoDB, Express.js, React.js, Node.js) and provides a seamless user experience.
 
 ---
@@ -57,7 +60,7 @@ Set Environment Variables Create a .env file in the backend directory with the f
 ruby
 Copy code
 PORT=4000
-FRONTEND_URL=http://localhost:4000
+FRONTEND_URL=http://localhost:2321
 MONGO_URI=mongodb+srv://<username>:<password>@cluster0.mongodb.net/?retryWrites=true
 Run the Project
 
@@ -71,7 +74,7 @@ bash
 Copy code
 cd ../frontend
 npm start
-Open your browser and visit: http://localhost:4000.
+Open your browser and https://restaurant-reservation-system-seven.vercel.app/
 
 📂 Project Structure
 bash
