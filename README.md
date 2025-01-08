@@ -113,8 +113,7 @@ Built with ❤️ and MERN stack technologies.
 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-css
-Copy code
+
 
 Feel free to modify it further to reflect additional details or changes specific to your project.
 
